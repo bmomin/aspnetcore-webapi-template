@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/barkatmomin/355a6deb-edb3-4c70-8d12-a5a0d1c76944/1658774b-f668-4c65-8d67-bc01c73b72db/_apis/work/boardbadge/eb73c904-740f-48a7-9a4f-f832e05802d4)](https://dev.azure.com/barkatmomin/355a6deb-edb3-4c70-8d12-a5a0d1c76944/_boards/board/t/1658774b-f668-4c65-8d67-bc01c73b72db/Microsoft.RequirementCategory)
 
 
 # ASP.NET Core Web Api Template
